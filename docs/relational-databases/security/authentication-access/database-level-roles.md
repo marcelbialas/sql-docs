@@ -58,7 +58,7 @@ You can add any database account and other [!INCLUDE [ssNoVersion](../../../incl
 
 The permissions of user-defined database roles can be customized by using the [GRANT](../../../t-sql/statements/grant-transact-sql.md), [DENY](../../../t-sql/statements/deny-transact-sql.md), and [REVOKE](../../../t-sql/statements/revoke-transact-sql.md) statements. For more information, see [Permissions (Database Engine)](../permissions-database-engine.md).
 
-For a list of all the permissions, see the [Database Engine Permissions](https://aka.ms/sql-permissions-poster) poster. Server-level permissions can't be granted to database roles. Logins and other server-level principals (such as server roles) can't be added to database roles. For server-level security in [!INCLUDE [ssNoVersion_md](../../../includes/ssnoversion-md.md)], use [server roles](server-level-roles.md) instead. Server-level permissions can't be granted through roles in Azure SQL Database and Azure Synapse Analytics.
+For a list of all the permissions, see the [Database Engine Permissions]([https://aka.ms/sql-permissions-poster](https://download.microsoft.com/download/e/8/5/e856641f-48ba-428f-9892-667950569cab/Microsoft_SQL_Server_2017_and_Azure_SQL_Database_permissions_infographic.pdf)) poster. Server-level permissions can't be granted to database roles. Logins and other server-level principals (such as server roles) can't be added to database roles. For server-level security in [!INCLUDE [ssNoVersion_md](../../../includes/ssnoversion-md.md)], use [server roles](server-level-roles.md) instead. Server-level permissions can't be granted through roles in Azure SQL Database and Azure Synapse Analytics.
 
 ## Fixed database roles
 
